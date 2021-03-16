@@ -161,6 +161,10 @@
         padding: 0;
         margin: 0;
     }
+    body {
+        margin-top: 40px;
+    }
+    
     header {
         position: fixed;
         z-index: 100;
@@ -202,7 +206,7 @@
     }
     .Description {
         margin-top: 80px;
-        background-image: url(file:///C:/Users/s-oki/Desktop/ffftp/img/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg);
+        background-image: url(https://okky-gif.github.io/createlp.github.io/eberhard-grossgasteiger-y2azHvupCVo-unsplash.jpg);
         text-align: center;
         background-position: center;
         height: 400px;
