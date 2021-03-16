@@ -161,10 +161,9 @@
         padding: 0;
         margin: 0;
     }
-    body {
-        margin-top: 40px;
+    slide {
+        padding-top: 100px;
     }
-    
     header {
         position: fixed;
         z-index: 100;
